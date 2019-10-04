@@ -1,11 +1,133 @@
-#- title: "Title of a paper"
-#image: rock.png
-#description: Short Description of this paper.
-#authors: Jane* & John*, MP Allan
-#link:
-#  url: https://dl.acm.org/ccs/ccs.cfm?id=0&lid=0
-#  display:  CHI 2019
-#highlight: 1
-#news1: <a href="https://dl.acm.org/ccs/ccs.cfm?id=0&lid=0">Some Description. </a>
-#news2: <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> [PDF] </a>, <a href="https://dl.acm.org/citation.cfm?id=3300606"> [Link] </a>, <a href="https://dl.acm.org/downformats.cfm?id=3300606&parent_id=3290605&expformat=bibtex"> [BibTex] </a>.
-#
+- title: "DarkReader: Bridging the Gap Between Perception andReality of Power Consumption in Smartphonesfor Blind Users (to appear)"
+  image: darkreader.png
+  description: "DarkReader is a screen reader developed in Android that bridges blind users' perception of power consumption to reality. DarkReader darkens the screen by <b>truly</b> turning it off, but allows users to interact with their smartphones. A user study with 10 blind participants shows that DarkReader saves 24% to 52% power depending on tasks and screen brightness."
+  authors: <b>Syed M. Billah<sup>*</sup></b>, Jian Xu<sup>*</sup>, Roy Shilkrot, and Aruna Balasubramanian (<sup>*</sup>Equal contribution)
+  link:
+    url: "https://dl.acm.org/citation.cfm?id=3353806"
+    display:  "In Proceedings of the 21st International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2019)"
+  highlight: 1
+  pdf: dark-reader.pdf
+  news2:
+
+- title: "Accessible Gesture Typing for NonVisual Text Entry on Smartphones"
+  image: AGTex.png
+  description: "Gesture typing is a fast text-entry technique for sighted users which is commonly known as entering a word by gliding the finger sequentially over letter to letter. However, this input paradigm is currently inaccessible to blind users because it is difficult to draw shape gestures on a virtual keyboard without access to key visuals. This paper describes the design of accessible gesture typing, to bring this input paradigm to blind users."
+  authors: <b>Syed M. Billah</b>, Yu-Jung Ko, Vikas Ashok, Xiaojun Bi, and I.V. Ramakrishnan
+  link:
+    url: "https://dl.acm.org/citation.cfm?id=3300606"
+    display:  "In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI 2019)"
+  highlight: 1
+  pdf: agtex.pdf
+  news2:
+
+- title: "Towards Enabling Blind People to Independently Write on Printed Forms"
+  image: wiyg.png
+  description: "Filling out printed forms (e.g., checks) independently is currently impossible for blind people, since they cannot pinpoint the locations of the form fields, and quite often, they cannot even figure out what fields (e.g., name) are present in the form. Hence, they always depend on sighted people to write on their behalf, and help them affix their signatures. In this paper, we introduce WiYG, a Write-it-Yourself guide that directs a blind user to the different form fields, so that she can independently fill out these fields without seeking assistance from a sighted person."
+  authors: Shirin Feiz<sup>*</sup>, <b>Syed M. Billah<sup>*</sup></b>, Vikas Ashok, Roy Shilkrot, and I.V. Ramakrishnan (<sup>*</sup>Equal contribution)
+  link:
+    url: "https://dl.acm.org/citation.cfm?id=3300530"
+    display:  "In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI 2019)"
+  highlight: 1
+  pdf: wiyg.pdf
+  news2: <a href="https://www.cs.stonybrook.edu/about-us/News/New-Technology-Enables-Greater-Independence-Blind-CS-Faculty-Create-Write-it-Yourself" target="_blank"> [News] </a>
+
+- title: "Auto-Suggesting Browsing Actions for Personalized Web Screen Reading"
+  image: dummy.png
+  description: "Web browsing has never been easy for blind people, primarily due to the serial press-and-listen interaction mode of screen readers. Auto-suggesting the next browsing action has the potential to assist blind users in swiftly completing various tasks with minimal effort. In this paper, we present generalize SuggestOmatic, a personalized and scalable unsupervised approach for predicting the most likely next browsing action of the user, and proactively suggesting it to the user so that the user can avoid pressing a lot of shortcuts to complete that action."
+  authors: Vikas Ashok, <b>Syed M. Billah</b>,  Yevgen Borodin, and I.V. Ramakrishnan
+  link:
+    url: "https://dl.acm.org/citation.cfm?id=3320460"
+    display:  "In Proceedings of 27th Conference on User Modeling, Adaptation and Personalization (UMAP 2019)"
+  highlight: 0
+  pdf: Suggest-o-matic.pdf
+  news2:
+
+- title: "SteeringWheel: A Locality-Preserving Magnification Interface for Low Vision Web Browsing"
+  image: steeringWheel.png
+  description: "SteeringWheel is a locality-preserving screen magnifier that retains contextually meaningful information in the magnifier's current viewport. While magnifying, unlike regular screen magnifiers, SteeringWheel discriminates between whitespace and non-whitespace within a page to preserve locality. Brute-force panning in the magnified view is addressed by limiting the focus of magnification at any time to a single logical segment, and restricting the cursor movement to the boundaries of this segment. Also, SteeringWheel utilizes 1-D rotational gestures to facilitate seamless customization and personalization."
+  authors: Syed M. Billah</b>, Vikas Ashok, Donald E. Porter, and I.V. Ramakrishnan
+  link:
+    url: "https://dl.acm.org/citation.cfm?id=3173594"
+    display:  "In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018)"
+  highlight: 1
+  pdf: steering-wheel.pdf
+  news2:
+
+- title: "Write-it-Yourself with the Aid of Smartwatches: A Wizard-of-Oz Experiment with Blind People"
+  image: dummy.png
+  description:
+  authors: <b>Syed M. Billah</b>, Vikas Ashok, and I.V. Ramakrishnan
+  link:
+    url: "https://dl.acm.org/citation.cfm?id=3173005"
+    display:  "In Proceedings of the 23rd International Conference on Intelligent User Interfaces (IUI 2018)"
+  highlight: 0
+  pdf: wiy.pdf
+  news2:
+
+- title: "Ubiquitous Accessibility for People with Visual Impairments: Are We There Yet?"
+  image: dummy.png
+  description:
+  authors: <b>Syed M. Billah</b>, Vikas Ashok, Donald E. Porter, and I.V. Ramakrishnan
+  link:
+    url: "https://dl.acm.org/citation.cfm?id=3025731"
+    display:  "In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI 2017)"
+  highlight: 0
+  pdf: ubiquitous-accessibility.pdf
+  news2:
+
+- title: "Speed-Dial: A Surrogate Mouse for Non-Visual Web Browsing"
+  image: dummy.png
+  description:
+  authors: <b>Syed M. Billah</b>, Vikas Ashok, Donald E. Porter, and I.V. Ramakrishnan
+  link:
+    url: "https://dl.acm.org/citation.cfm?id=3132531"
+    display:  "In Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2017)"
+  highlight: 0
+  pdf: speed-dial.pdf
+  news2:
+
+- title: "Sinter: Low-bandwidth Remote Access for the Visually-Impaired"
+  image: dummy.png
+  description:
+  authors: <b>Syed M. Billah</b>, Donald E. Porter, and I.V. Ramakrishnan
+  link:
+    url: "https://dl.acm.org/citation.cfm?id=2901335"
+    display:  "In Proceedings of the Eleventh European Conference on Computer Systems (EuroSys 2016)"
+  highlight: 0
+  pdf: sinter.pdf
+  news2:
+
+- title: "Non-visual Web Browsing: Beyond Web Accessibility"
+  image: dummy.png
+  description:
+  authors: I.V. Ramakrishnan, Vikas Ashok, and <b>Syed M. Billah</b>
+  link:
+    url: "https://link.springer.com/chapter/10.1007%2F978-3-319-58703-5_24"
+    display:  "In Proceedings of the 11th International Conference, UAHCI 2017, Held as Part of HCI International 2017 (HCII 2017)"
+  highlight: 0
+  pdf: webaccessibility.pdf
+  news2:
+
+- title: "Social Network Analysis for Predicting Emerging Researchers"
+  image: dummy.png
+  description:
+  authors: <B>Syed M. Billah</b>, and Susan Gauch
+  link:
+    url: "https://ieeexplore.ieee.org/document/7526900"
+    display:  "In Proceedings of the 7th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (KDIR'15)"
+  highlight: 0
+  pdf: emerging.pdf
+  news2:
+
+- title: "Automatic Class Labeling for CiteSeerX"
+  image: dummy.png
+  description:
+  authors: Surya Dhairya Kashireddy, Susan Gauch, and <b>Syed M. Billah</b>
+  link:
+    url: "https://ieeexplore.ieee.org/document/6690021"
+    display:  "In Proceedings of the 2013 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI 2013)"
+  highlight: 0
+  pdf: citeseer.pdf
+  news2:
+
+
