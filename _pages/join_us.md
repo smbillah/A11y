@@ -6,15 +6,15 @@ sitemap: false
 permalink: /join_us/
 ---
 
-## Open Ph.D. / Postdoc Positions
-We are looking for  Ph.D. students and Postdoc. 
+## Open Ph.D. Positions
+We are looking for  Ph.D. students. 
 
 <div style="text-align: justify">
-Our goal is to endow assistive technologies with the capacity to substitute, recover, empower, or augment human's physical, sensorial or cognitive capabilities. Towards that, candidates will work on cutting-edge technologies, such as personalized 3D fabrication, smart textile, augmented reality, human-AI interaction, invisible UI, and IoT.
- 
-The ideal candidate should have a strong technical background, as well as experience with coursework/research in one or more of the following areas: HCI, AI, Accessibility, and Systems. Prior experience working with *human subjects* is not required but will be considered a plus.  Ph.D. students will have the opportunity to generate their own research agenda. Preference will be given to students who already have a masters degree from the USA. 
+Our goal is to endow assistive technologies with the capacity to substitute, recover, empower, or augment human's physical, sensorial, or cognitive capabilities. Towards that, candidates will work on cutting-edge technologies, including but not limited to smart input/output techniques, personalized 3D fabrication, smart textile, augmented reality, human-AI interaction, invisible UI, and IoT.
 
-If you are interested, please email me at *skb5969+phd@psu.edu*. State briefly why you are interested, and attach a CV. **Important**: please insert _"PhD/Postdoc Position"_ in the subject line.
+The ideal candidate should have a strong technical background in CS/EE, as well as experience with coursework/research in one or more of the following areas: HCI, AI, Accessibility, and Systems. Prior experience working with human subjects is not required but will be considered a plus. Ph.D. students will have the opportunity to generate their own research agenda. Preference will be given to students who already have a master's degree from the USA.
+
+If you are interested, please email me at *skb5969+phd@psu.edu*. State briefly why you are interested, and attach a CV. **Important**: please insert _"PhD Position"_ in the subject line.
 </div>
 
 --------------

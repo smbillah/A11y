@@ -45,7 +45,7 @@
 - title: "SteeringWheel: A Locality-Preserving Magnification Interface for Low Vision Web Browsing"
   image: steeringWheel.png
   description: "SteeringWheel is a locality-preserving screen magnifier that retains contextually meaningful information in the magnifier's current viewport. While magnifying, unlike regular screen magnifiers, SteeringWheel discriminates between whitespace and non-whitespace within a page to preserve locality. Brute-force panning in the magnified view is addressed by limiting the focus of magnification at any time to a single logical segment, and restricting the cursor movement to the boundaries of this segment. Also, SteeringWheel utilizes 1-D rotational gestures to facilitate seamless customization and personalization."
-  authors: Syed M. Billah</b>, Vikas Ashok, Donald E. Porter, and I.V. Ramakrishnan
+  authors: <b>Syed M. Billah</b>, Vikas Ashok, Donald E. Porter, and I.V. Ramakrishnan
   link:
     url: "https://dl.acm.org/citation.cfm?id=3173594"
     display:  "In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018)"

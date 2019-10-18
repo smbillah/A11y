@@ -6,14 +6,14 @@ sitemap: false
 permalink: /
 ---
 <div style="text-align: justify">
-**We are currently looking for PhD students, Postdocs, and Master's students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join_us) **!** 
+**We are currently looking for PhD and Master's students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join_us) **!** 
 </div>
 
 
 <div style="text-align: justify">
 A11y Lab is affiliated with  the [Human-Centered Design and Development (HCDD)](https://ist.psu.edu/students/undergrad/majors/hcdd)  program at the [College of Information Science and Technology](https://ist.psu.edu/l) in [Penn State](https://www.psu.edu/).
 
-**A11y** stands for **Accessibility**  -- there are **11** letters between the **“A”** and the **“y”**. We believe accessibility is a human right; we also believe making things accessible for people with disabilities is  a **hard problem**. Very often this problem is layered, multi-dimensinoal, and is difficult to describe and theorize. 
+**A11y** stands for **Accessibility**  -- there are **11** letters between the **“A”** and the **“y”**. We believe accessibility is a human right; we also believe making things accessible for people with disabilities is  a **hard problem**. Very often this problem is layered, multi-dimensinoal, and difficult to describe and theorize. 
 </div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="6500" data-pause="hover">
