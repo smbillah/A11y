@@ -1,7 +1,7 @@
 ---
 title: "A11y Lab - Home"
 layout: homelay
-excerpt: "A11y Lab at Penn State University."
+excerpt: "A11y Lab at Penn State University"
 sitemap: false
 permalink: /
 ---
@@ -11,7 +11,7 @@ permalink: /
 
 
 <div style="text-align: justify">
-A11y Lab is affiliated with  the [Human-Centered Design and Development (HCDD)](https://ist.psu.edu/students/undergrad/majors/hcdd)  program at the [College of Information Science and Technology](https://ist.psu.edu/l) in [Penn State](https://www.psu.edu/).
+A11y Lab is affiliated with  the [Human-Centered Design and Development (HCDD)](https://ist.psu.edu/students/undergrad/majors/hcdd)  program at the [College of Information Science and Technology](https://ist.psu.edu) in [Penn State](https://www.psu.edu/).
 
 **A11y** stands for **Accessibility**  -- there are **11** letters between the **“A”** and the **“y”**. We believe accessibility is a human right; we also believe making things accessible for people with disabilities is  a **hard problem**. Very often this problem is layered, multi-dimensinoal, and difficult to describe and theorize. 
 </div>
@@ -75,6 +75,6 @@ At *A11y Lab*, we aim to address the following challenges:
 * How to apply *Artificial Intelligence (AI)* to recover/substitute human sensory losses? 
 * How to build *new* assistive technology to *augment/empower* human capability?  
 
-Please feel free to contact [me](mailto:skb5969@psu.edu) if you are also working on these challenges and interested in collaborating with us.
+Please feel free to contact [me](mailto:sbillah@psu.edu) if you are also working on these challenges and interested in collaborating with us.
 </div>
 <br style ="line-height:10;"/> 

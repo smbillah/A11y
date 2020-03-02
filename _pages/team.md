@@ -3,7 +3,7 @@ title: "A11y Lab - Team"
 layout: gridlay
 excerpt: "A11y Lab: Team members"
 sitemap: false
-permalink: /team/
+permalink: /team.html
 ---
 
 ## Team Members

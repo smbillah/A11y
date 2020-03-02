@@ -1,7 +1,7 @@
 - name: <a href="https://ist.psu.edu/directory/skb5969">Syed M. Billah</a>
   photo: smbillah.png
   info: Assistant professor, started Aug 2019.
-  email: skb5969@psu.edu
+  email: sbillah@psu.edu
   number_educ: 2
   education1: I manage A11y Lab
   education2: I am an engineer turned accessibility researcher due of personal causes
@@ -9,8 +9,8 @@
 
 - name: "This could be you!"
   photo: bio-photo.jpg
-  info: See <a href="http://a11y.ist.psu.edu/join_us">Join Us!</a> for more info
-  email: skb5969+phd@psu.edu
+  info: See <a href="https://a11y.ist.psu.edu/join_us">Join Us!</a> for more info
+  email: sbillah+phd@psu.edu
   number_educ: 0
   education1:
   education2:

@@ -1,9 +1,9 @@
 ---
 title: "A11y Lab - Publications"
 layout: gridlay
-excerpt: "A11y Lab -- Publications."
+excerpt: "A11y Lab -- Publications"
 sitemap: false
-permalink: /publications/
+permalink: /publications.html
 ---
 
 
